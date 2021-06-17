@@ -1,0 +1,1 @@
+# poc-properties-pojo
